@@ -1,0 +1,88 @@
+Forms:
+<form action="url">
+	<input type="text" placeholder="Enter name">
+</form>
+
+Div: Division, div tag is used to create division/partition on a web page
+<div>
+</div>
+
+By default all the radio buttons will get selected, to make user select only a single radio button
+we need to give the same name to all them
+
+multiline : address, comment, description
+
+3 buttons in html:
+Submit button: 
+Plain button
+Reset Button
+
+<button type="submit">Click</button>
+
+
+
+
+
+<nav>
+
+<footer>
+
+
+CSS: Cascading Style Sheet
+
+Syntax:
+
+Always write css code in the head 
+<style>
+	selector{
+	   property-name:value;
+		
+	}
+</style>
+
+selector will select an element on which style has to be applied
+font-size
+background-color
+
+
+Types of selectors in css:
+1. Tag selector: name of the tag, it will select all the matching tag by name
+		 tag-name{
+		}
+2. Id selector: id of the element will be the selector
+		#id-value{}
+
+3. Class selector:  identify multiple tags commonly 
+
+4. Universal selector: *{}
+
+
+id>class>tag-name>*
+
+1500 line of html code
+1000 lines of code for css  
+
+Types of css:
+classfication is based on the places where to write the css code
+
+1. Internal Css: css written within html file inside head and style tag
+2. External Css: css written outside in a seperate .css file. We need to link the external css with html file.
+
+Home.html
+About.html
+Contact.html
+100 pages 
+
+properties to manage the spaces: 
+1. margin : outer spaces margin-top margin-right margin-bottom margin-left
+
+	    margin:10px 20px 30px 70px;
+	    margin: 40px;
+	    margin: 20px 40px;
+	    margin: 80px auto;
+
+2. padding : internal spaces 
+
+
+
+

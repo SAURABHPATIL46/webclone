@@ -1,0 +1,91 @@
+HTML: We will use html to display data on a web page
+      its not a programming language
+       Hyper Text Markup Language
+	
+To display anything using html we will get tags, all tags are already defined 
+
+Syntax eg: <ABCD>
+
+To display any data on web page there is corresponding tag
+for eg: for paragraph <p>, <table>,
+
+two types of tags:
+1. Container Tag : Those tags which has opening and closing as well
+	<ABCD> 
+		
+	</ABCD>
+	<p> This is a dummy para </p>
+
+2. Empty Tag: Those tags which has opening only 
+	      <img />
+	      <br/>
+
+
+HTML is error free lang.
+HTML is case insensitive.
+
+
+
+Create a file with .html/.htm extension
+
+
+
+Heading tags-> <h1>, <h2>, <h3>, <h4>, <h5>, <h6>
+
+Image: <img src="">
+
+attributes can also be referred as property for that tag
+attributes are used to customize a tag
+
+To give link : <a href="https://www.google.com/">Visit Google page</a>
+
+
+Lists in html: 
+1. Ordered List: a list for which labels will have a sequence
+		 1. XXXXX
+	         2. XXXXX
+	<ol>
+	  <li>Mumbai</li>
+	  <li>Delhi</li>
+	  <li>Chennai</li>
+	</ol>
+       valid values for type attr: 1 a A i I 
+	start attr: it will accept the starting position (not the starting value)
+
+2. Unordered List: a list for which labels will be the symbols
+	
+	<ul type="disc|circle|square">
+	  <li></li>
+	</ul> 
+
+Table:
+<table>
+   <tr>
+   </tr>
+</table>
+cellpadding: manages space inside a cell
+cellspacing: manages space between adjacent cells
+
+1. create a outer box a table
+2. create row 
+3. inside row create columns
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+ 
